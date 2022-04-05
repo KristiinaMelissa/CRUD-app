@@ -1,0 +1,6 @@
+[submodule "php-REST"]
+	path = php-REST
+	url = https://github.com/KristiinaMelissa/php-REST.git
+[submodule "vue-client"]
+	path = vue-client
+	url = https://github.com/KristiinaMelissa/vue-client.git
